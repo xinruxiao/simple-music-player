@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/41t58PIC2gf_10241.JPG</file>
+        <file>resources/1.png</file>
+        <file>resources/7.png</file>
+        <file>resources/14.png</file>
+        <file>resources/20.png</file>
+        <file>resources/21.png</file>
+        <file>resources/22.png</file>
+        <file>resources/23.png</file>
+        <file>resources/24.png</file>
+        <file>resources/30.png</file>
+        <file>resources/31.png</file>
+        <file>resources/32.png</file>
+        <file>resources/0015e77674b7604f-5a10656e6fe3ec5e-12fb3c14cf5b02d655b56ccf2fb8683c.jpg</file>
+        <file>resources/0015e77674b7604f-5a10656e6fe3ec5e-12fb3c14cf5b02d655b56ccf2fb8683c.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/my.ico</file>
+        <file>resources/25.png</file>
+    </qresource>
+</RCC>
